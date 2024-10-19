@@ -1,0 +1,1 @@
+This is the project about the cleaning the data in a given data set. This includes how to impute the missing values with the Mean, median, Mode or other descriptive statistics, and also includes how to calculate the outliers and removing the outliers from the data.
